@@ -1,0 +1,6 @@
+header {
+  display: flex;
+    padding-left: 3rem;
+    color: orangered;
+    align-items: center;
+}
